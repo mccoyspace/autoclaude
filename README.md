@@ -24,7 +24,7 @@ The target register is *confidently mediocre* — a mid-tier LinkedIn thought-le
 
 ## Installation
 
-Drop `autoclaude.skill` into your Claude skills directory. Once installed, trigger with phrases like:
+Drop `autoclaude.skill` into your Claude/GPT/other skills directory. Once installed, trigger with phrases like:
 
 - "autoclaude this"
 - "slop-code this"
