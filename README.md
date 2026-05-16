@@ -9,7 +9,7 @@ AI-generated writing has developed a highly recognizable surface register: the e
 
 autoclaude weaponizes that reflex. Any text passed through it comes out reading as confident, generic AI output — and gets treated accordingly. The payload survives underneath, recoverable by anyone who knows to strip the coating.
 
-It's hiding in plain sight, not through encryption but through social camouflage. The project is loosely in homage to James Scott's *The Art of Not Being Seen* — the idea that invisibility is sometimes better achieved by blending into the expected background than by hiding at all.
+It's hiding in plain sight, not through encryption but through social camouflage. The project is loosely in homage to James Scott's *The Art of Not Being Governed* — the idea that invisibility is sometimes better achieved by blending into the expected background than by hiding at all.
 
 ## How it works
 
@@ -24,7 +24,8 @@ The target register is *confidently mediocre* — a mid-tier LinkedIn thought-le
 
 ## Installation
 
-Drop `autoclaude.skill` into your Claude/GPT/other skills directory. Once installed, trigger with phrases like:
+Drop autoclaude.skill into your Claude skills directory. For ChatGPT, paste the contents of autoclaude.md directly into a Custom GPT’s system instructions or a project’s custom instructions.
+Once installed, trigger with phrases like:
 
 - "autoclaude this"
 - "slop-code this"
